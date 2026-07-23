@@ -1,0 +1,17 @@
+{
+  "name": "HEY X7 - Lista de Rolamentos",
+  "short_name": "HEY X7",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#111827",
+  "description": "Assistente por voz para montar lista de compras de rolamentos.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
