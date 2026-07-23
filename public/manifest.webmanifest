@@ -1,0 +1,19 @@
+{
+  "name": "X7 Rolamentos & Retentores",
+  "short_name": "X7",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#202024",
+  "theme_color": "#c47046",
+  "description": "Busca rolamentos e retentores, monta lista de compras e envia pelo WhatsApp. Funciona offline apos o primeiro acesso.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
