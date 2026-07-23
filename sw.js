@@ -1,5 +1,5 @@
-const CACHE_NAME = "x7-pwa-v3";
-const PRECACHE_ASSETS = ["assets/icon-BgC3TksW.svg","assets/index-DJjx3nxS.css","assets/index-Dq_61Q3J.js","assets/manifest-D0aRPFUq.webmanifest"];
+const CACHE_NAME = "x7-pwa-v4";
+const PRECACHE_ASSETS = ["assets/icon-BgC3TksW.svg","assets/index-BgW_xtxY.js","assets/index-DJjx3nxS.css","assets/manifest-D0aRPFUq.webmanifest"];
 const APP_SHELL = ["./", "index.html", "manifest.webmanifest", "icon.svg", ...PRECACHE_ASSETS];
 
 self.addEventListener("install", (event) => {
